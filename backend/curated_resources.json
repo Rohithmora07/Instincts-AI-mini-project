@@ -1,0 +1,128 @@
+{
+  "data analyst": {
+    "keywords": ["data analyst", "data analytics", "sql", "power bi", "excel dashboard"],
+    "resources": [
+      "SQL: Mode Analytics SQL Tutorial (mode.com/sql-tutorial)",
+      "Power BI: Microsoft Learn Power BI Path (learn.microsoft.com)",
+      "Practice: StrataScratch (real interview SQL/analytics questions)",
+      "Book: Storytelling with Data by Cole Knaflic"
+    ]
+  },
+  "python programming": {
+    "keywords": ["python", "python programming", "python scripting"],
+    "resources": [
+      "Official Docs: docs.python.org/3/tutorial",
+      "Practice: NeetCode Python-specific problem sets (neetcode.io)",
+      "Course: CS50P — Harvard's Introduction to Programming with Python (cs50.harvard.edu/python)",
+      "Book: Automate the Boring Stuff with Python"
+    ]
+  },
+  "web development": {
+    "keywords": ["web development", "web dev", "html", "css", "javascript", "frontend", "react"],
+    "resources": [
+      "Official Docs: developer.mozilla.org (MDN Web Docs)",
+      "Practice: Frontend Mentor (real-world design challenges)",
+      "Course: The Odin Project (theodinproject.com — full-stack, project-based)",
+      "Course: React official tutorial (react.dev/learn)"
+    ]
+  },
+  "machine learning": {
+    "keywords": ["machine learning", "ml", "deep learning"],
+    "resources": [
+      "Course: Andrew Ng's Machine Learning Specialization (Coursera)",
+      "Practice: Kaggle Learn micro-courses + real competitions (beginner tier)",
+      "Book: Hands-On Machine Learning by Aurélien Géron",
+      "Course: fast.ai Practical Deep Learning (free, code-first)"
+    ]
+  },
+  "data science": {
+    "keywords": ["data science", "data scientist"],
+    "resources": [
+      "Course: Kaggle Learn (kaggle.com/learn)",
+      "Practice: Kaggle Datasets + Competitions",
+      "Book: Python for Data Analysis by Wes McKinney",
+      "Course: freeCodeCamp Data Analysis with Python"
+    ]
+  },
+  "digital marketing": {
+    "keywords": ["digital marketing", "marketing", "seo", "social media marketing"],
+    "resources": [
+      "Course: Google Digital Garage (fundamentals, free certificate)",
+      "Course: HubSpot Academy (free certifications)",
+      "Practice: Build a sample campaign via Meta Blueprint (free)",
+      "Newsletter: Marketing Examples by Harry Dry (marketingexamples.com)"
+    ]
+  },
+  "dsa placements": {
+    "keywords": ["dsa", "data structures", "algorithms", "placements", "coding interview", "interview prep"],
+    "resources": [
+      "Sheet: Striver's A2Z DSA Course/Sheet (takeuforward.org)",
+      "Practice: NeetCode 150 (neetcode.io — curated, pattern-based)",
+      "Practice: LeetCode (company-tagged questions)",
+      "Book: Cracking the Coding Interview by Gayle Laakmann McDowell"
+    ]
+  },
+  "cloud computing": {
+    "keywords": ["cloud computing", "aws", "azure", "gcp", "cloud engineer"],
+    "resources": [
+      "Course: AWS Skill Builder (free tier, official)",
+      "Course: Google Cloud Skills Boost (free labs)",
+      "Certification path: AWS Certified Cloud Practitioner",
+      "Practice: freeCodeCamp AWS Certified Cloud Practitioner course (YouTube)"
+    ]
+  },
+  "ui ux design": {
+    "keywords": ["ui design", "ux design", "ui/ux", "product design", "figma"],
+    "resources": [
+      "Course: Google UX Design Certificate (Coursera)",
+      "Reference: Laws of UX by Jon Yablonski (lawsofux.com)",
+      "Practice: Daily UI Challenge (dailyui.co)",
+      "Tool tutorials: Figma's official Learn hub (help.figma.com)"
+    ]
+  },
+  "cybersecurity": {
+    "keywords": ["cybersecurity", "ethical hacking", "penetration testing", "cyber security","soc", "soc analyst", "security operations"],
+    "resources": [
+      "Practice: TryHackMe (guided, beginner-friendly labs)",
+      "Practice: OverTheWire Bandit wargame (classic, free)",
+      "Course: Cybrary free introductory courses",
+      "Certification path: CompTIA Security+ study guides"
+    ]
+  },
+  "content writing": {
+    "keywords": ["content writing", "copywriting", "technical writing", "blogging"],
+    "resources": [
+      "Guide: Google's Technical Writing Courses (developers.google.com/tech-writing)",
+      "Reference: Copyblogger's free content library",
+      "Course: HubSpot Content Marketing Certification (free)",
+      "Practice: Write daily on Medium/personal blog, get feedback"
+    ]
+  },
+  "business analytics excel": {
+    "keywords": ["business analytics", "excel", "spreadsheet analysis"],
+    "resources": [
+      "Reference: ExcelJet (exceljet.net — concise, practical formulas)",
+      "Course: Chandoo.org Excel School",
+      "Course: Google Data Analytics Certificate (Coursera)",
+      "Practice: Build a dashboard from a public Kaggle dataset"
+    ]
+  },
+  "app development": {
+    "keywords": ["app development", "android development", "flutter", "mobile development"],
+    "resources": [
+      "Official Docs: developer.android.com/courses",
+      "Official Docs: docs.flutter.dev (with codelabs)",
+      "Course: freeCodeCamp Flutter Course (YouTube)",
+      "Practice: Build and publish one small app to test end-to-end flow"
+    ]
+  },
+  "java programming": {
+    "keywords": ["java", "java programming", "java development"],
+    "resources": [
+      "Official Docs: Oracle's Java Tutorials (docs.oracle.com/javase/tutorial)",
+      "Practice: NeetCode/LeetCode Java-based problem solving",
+      "Book: Head First Java by Kathy Sierra & Bert Bates",
+      "Course: freeCodeCamp Java Programming Course (YouTube)"
+    ]
+  }
+}
